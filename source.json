@@ -12,6 +12,7 @@
         "url":"https://github.com/Pokeyi/vpm-packages",
         "text":"View on GitHub"
     },
+    "bannerUrl":"https://pokeyi.dev/Pokeyi_Banner.png",
     "githubRepos":[
         "source:Pokeyi/VRC-Omni-Action",
 	"source:Pokeyi/VRC-Animation-Sync"
