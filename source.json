@@ -1,7 +1,7 @@
 {
     "name":"Pokeyi's Udon Tools",
-    "id":"io.github.pokeyi.vpm-packages",
-    "url":"https://pokeyi.github.io/vpm-packages/index.json",
+    "id":"dev.pokeyi.vpm-packages",
+    "url":"https://pokeyi.dev/vpm-packages/index.json",
     "author":{
         "email":"pokeyi@pm.me",
         "name":"Pokeyi",
