@@ -13,13 +13,13 @@
         "text":"View on GitHub"
     },
     "githubRepos":[
-        "pokeyi/vrc-animation-sync",
-        "pokeyi/vrc-omni-action",
-        "pokeyi/vrc-floater-sync",
-        "pokeyi/vrc-player-tracking",
-        "pokeyi/vrc-object-spawner",
-        "pokeyi/vrc-haptics-profile",
-        "pokeyi/vrc-raycast-laser",
-        "pokeyi/vrc-surface-slide"
+        "source:pokeyi/vrc-animation-sync",
+        "source:pokeyi/vrc-omni-action",
+        "source:pokeyi/vrc-floater-sync",
+        "source:pokeyi/vrc-player-tracking",
+        "source:pokeyi/vrc-object-spawner",
+        "source:pokeyi/vrc-haptics-profile",
+        "source:pokeyi/vrc-raycast-laser",
+        "source:pokeyi/vrc-surface-slide"
     ]
 }
