@@ -1,7 +1,7 @@
 {
     "name":"Pokeyi's Udon Tools",
-    "id":"io.github.pokeyi.vpm",
-    "url":"https://pokeyi.github.io/vrchat/vpm.json",
+    "id":"io.github.pokeyi.vpm-packages",
+    "url":"https://pokeyi.github.io/vpm-packages/index.json",
     "author":{
         "email":"pokeyi@pm.me",
         "name":"Pokeyi",
@@ -9,7 +9,7 @@
     },
     "description":"Pokeyi's Udon Sharp Tools for VRChat Worlds SDK",
     "infoLink":{
-        "url":"http://github.com/pokeyi/pokeyi.github.io",
+        "url":"https://github.com/Pokeyi/vpm-packages",
         "text":"View on GitHub"
     },
     "githubRepos":[
