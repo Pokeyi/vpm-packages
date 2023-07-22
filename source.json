@@ -14,5 +14,6 @@
     },
     "githubRepos":[
         "source:Pokeyi/VRC-Omni-Action",
+	"source:Pokeyi/VRC-Animation-Sync"
     ]
 }
