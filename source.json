@@ -17,7 +17,8 @@
         {
             "name":"dev.pokeyi.udontools",
             "releases":[
-                "https://github.com/Pokeyi/vpm-packages/releases/download/v1.0.0/dev.pokeyi.udontools-1.0.0.zip"
+                "https://github.com/Pokeyi/vpm-packages/releases/download/v1.0.0/dev.pokeyi.udontools-1.0.0.zip",
+		"https://github.com/Pokeyi/vpm-packages/releases/download/v1.0.0/dev.pokeyi.udontools-1.0.1.zip"
             ]
         }
     ]
