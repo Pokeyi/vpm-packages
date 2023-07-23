@@ -13,11 +13,32 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"https://pokeyi.dev/Pokeyi_Banner.png",
-    "packages":[
-        {
-            "name":"dev.pokeyi.udontools",
-            "releases":[
-                "https://github.com/Pokeyi/vpm-packages/releases/download/v1.0.0/dev.pokeyi.udontools-1.0.0.zip"            ]
-        }
-    ]
+	"packages":[
+		"dev.pokeyi.udontools":{
+			"versions":{
+				"1.0.0":{
+					"name": "dev.pokeyi.udontools",
+  					"description": "A collection of VRChat world-creation behaviours written with UdonSharp.",
+					"version": "1.0.0",
+  					"unity": "2019.4",
+  					"displayName": "Pokeyi's Udon Tools",
+  					"hideInEditor": false,
+  					"vpmDependencies": {
+    					"com.vrchat.udonsharp": "^1.1.8"
+  					},
+  					"type": "tool",
+  					"documentationUrl": "https://github.com/Pokeyi/pokeyi.github.io#my-projects",
+  					"license": "MIT",
+  					"keywords": ["Udon", "World", "Script"],
+					"url":"https://github.com/Pokeyi/vpm-packages/releases/download/v1.0.0/dev.pokeyi.udontools-1.0.0.zip",
+  					"repo" : "https://pokeyi.dev/vpm-packages/index.json",
+  					"author": {
+        				"email":"pokeyi@pm.me",
+        				"name":"Pokeyi",
+        				"url":"https://pokeyi.dev"
+  					}
+				}
+			}
+		}
+	]	
 }
