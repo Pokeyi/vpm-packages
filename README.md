@@ -1,5 +1,5 @@
 # VPM Packages
-Publisher and host repository for my VPM packages to be imported via the VRChat Creator Companion app.
+Listing and host repository for my VPM packages to be imported via the VRChat Creator Companion app.
 
 ### [Click here](https://pokeyi.dev/vpm-packages/) for the import link and simple instructions for installing the packages below.
 
