@@ -4,7 +4,7 @@ Listing and host repository for my VPM packages to be imported via the VRChat Cr
 ### [Click here](https://pokeyi.dev/vpm-packages/) for the import link and simple instructions for installing the packages below.
 
 ## Pokeyi's Udon Tools
-A collection of Udon Sharp Tools for use with the VRChat Worlds SDK, including:
+A collection of UdonSharp tools for use with the VRChat Worlds SDK, including:
 - [VRC Omni-Action](https://github.com/Pokeyi/VRC-Omni-Action)
 - [VRC Animation Sync](https://github.com/Pokeyi/VRC-Animation-Sync)
 - [VRC Floater Sync](https://github.com/Pokeyi/VRC-Floater-Sync)
