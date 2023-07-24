@@ -205,6 +205,11 @@
         {{~ end ~}}
       </fluent-data-grid>
     </fluent-card>
+    {{~ if listingInfo.InfoLink.Url ~}}
+      <div class="caption1" id="publishedByText">
+        <a href="{{listingInfo.InfoLink.Url}}" target="_blank">{{ if listingInfo.InfoLink.Text; listingInfo.InfoLink.Text; else; "Lean More"; end; }}</a>
+      </div>
+    {{~ end; ~}}
   </div>
   <script type="module" src="app.js"></script>
 </body>
