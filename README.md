@@ -1,8 +1,7 @@
 # VPM Packages
 Listing and host repository for my VPM packages to be imported via the VRChat Creator Companion app.
 
-🛑 Import Link Temporarily Disabled - Working out some issues. 🛑
-<!-- ### [Click here](https://pokeyi.dev/vpm-packages/) for the import link and simple instructions for installing the packages below. -->
+### [Click here](https://pokeyi.dev/vpm-packages/) for the import link and simple instructions for installing the packages below.
 
 ## Pokeyi's Udon Tools
 A collection of UdonSharp tools for use with the VRChat Worlds SDK, including:
